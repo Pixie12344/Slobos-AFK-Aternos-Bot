@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": spearmachemaster.aternos.me
+    "ip": "spearmachemaster.aternos.me".
     "port": 64634
     "version": "",
     "try-creative": false
