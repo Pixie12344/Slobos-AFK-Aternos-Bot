@@ -9,8 +9,8 @@
     "ip": "spearmachemaster.aternos.me".
     "port": 64634
     "version"26.2
-    "try-creative": false
-  },
+
+  }
   "position": {
     "enabled": true,
     "x": 0,
